@@ -1,0 +1,10 @@
+sources:
+  "asterisk-moh-freeplay-alaw.tar.gz:"	ac6a2a7552930e0234dc47981ba6934a3a7fcd1b
+  "asterisk-moh-freeplay-g722.tar.gz:"	3c9d0e702d70285dcb165ba078d236b8327ddac5
+  "asterisk-moh-freeplay-g729.tar.gz:"	3782265da7ff541f6f44de240239b864e9e050ad
+  "asterisk-moh-freeplay-gsm.tar.gz:"	dfac07ec765be711814975930400d755b0fcd038
+  "asterisk-moh-freeplay-siren14.tar.gz:"	ecac5759f86790628a0692d7a3db7b35b0b5f5c3
+  "asterisk-moh-freeplay-siren7.tar.gz:"	c921dd5162d262fdf481bd8aa8584bfa5154d8ae
+  "asterisk-moh-freeplay-sln16.tar.gz:"	e7f31c7feb5ef0b84779d12fdf0a718046e264e9
+  "asterisk-moh-freeplay-ulaw.tar.gz:"	a86b416e26c7d2cd9027880a749aad200abe28ec
+  "asterisk-moh-freeplay-wav.tar.gz:"	eb332487e64b4684ba7c31fa1e0b646ac35bdd30
