@@ -72,3 +72,23 @@ rm -rf %{buildroot}
 %files -f %{name}.filelist
 %defattr(-,root, root)
 %doc *-%{name}-*
+
+
+%changelog
+* Thu Dec 09 2010 Oden Eriksson <oeriksson@mandriva.com> 20090401-2mdv2011.0
++ Revision: 616624
+- the mass rebuild of 2010.0 packages
+
+* Thu Aug 13 2009 Lonyai Gergely <aleph@mandriva.org> 20090401-1mdv2010.0
++ Revision: 416095
+- update date to 2009-04-01 (Cause: only wav)
+
+* Mon Mar 30 2009 Lonyai Gergely <aleph@mandriva.org> 20090327-1mdv2009.1
++ Revision: 362470
+- Update: 20090327
+
+* Tue Mar 17 2009 Lonyai Gergely <aleph@mandriva.org> 20080903-1mdv2009.1
++ Revision: 356988
+- asterisk-moh-freeplay-20080903
+- create asterisk-moh-freeplay
+
