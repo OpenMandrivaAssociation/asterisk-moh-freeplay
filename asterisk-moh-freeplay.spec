@@ -4,7 +4,7 @@
 Summary:	Free music files for the Asterisk PBX and telephony application and toolkit
 Name:		asterisk-moh-freeplay
 Version:	20090401
-Release:	%mkrel 2
+Release:	3
 License:	Public Domain
 Group:		System/Servers
 URL:		http://www.asterisk.org/
