@@ -7,7 +7,7 @@ Version:	20090401
 Release:	3
 License:	Public Domain
 Group:		System/Servers
-URL:		http://www.asterisk.org/
+URL:		https://www.asterisk.org/
 Source0:	http://ftp.digium.com/pub/telephony/sounds/%{name}-alaw.tar.gz
 Source1:	http://ftp.digium.com/pub/telephony/sounds/%{name}-g722.tar.gz
 Source2:	http://ftp.digium.com/pub/telephony/sounds/%{name}-g729.tar.gz
